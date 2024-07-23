@@ -29,7 +29,7 @@ In the Key Vault Resource, edit the access configurations. Allow volume encrypti
 
 
 <h4>Step 4</h4> 
-Go to your VM -->disk-->additional settings--> encryption settings and encrypt using key in the key vault.<br/>
+Go to your VM -->disks-->additional settings--> encryption settings and encrypt using key in the key vault.<br/>
 <img src="https://i.imgur.com/UzM4cKA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
 <h4>Step 5</h4> 
